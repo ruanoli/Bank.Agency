@@ -11,4 +11,4 @@ Criação de uma aplicação de transferência bancária.
 - Lista contas já criadas;
 - Saques;
 - Depósitos;
-- Trasferências.
+- Transferências.
