@@ -1,0 +1,16 @@
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.exe
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.deps.json
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.runtimeconfig.json
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.runtimeconfig.dev.json
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.dll
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\ref\Bank.Agency.dll
+C:\C# e .NET\POO-Bank\Bank.Agency\bin\Debug\net5.0\Bank.Agency.pdb
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.csproj.AssemblyReference.cache
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.AssemblyInfoInputs.cache
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.AssemblyInfo.cs
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.csproj.CoreCompileInputs.cache
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.dll
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\ref\Bank.Agency.dll
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.pdb
+C:\C# e .NET\POO-Bank\Bank.Agency\obj\Debug\net5.0\Bank.Agency.genruntimeconfig.cache
